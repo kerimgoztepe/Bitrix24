@@ -1,4 +1,4 @@
-package com.cybertek.utilities;
+package com.Bitrix.utilities;
 
 import java.util.Properties;
 

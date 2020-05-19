@@ -1,7 +1,8 @@
 package com.Bitrix.tests;
 
-import com.cybertek.utilities.ConfigurationReader;
-import com.cybertek.utilities.Driver;
+
+import com.Bitrix.utilities.ConfigurationReader;
+import com.Bitrix.utilities.Driver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;

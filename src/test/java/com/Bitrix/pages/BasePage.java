@@ -1,7 +1,7 @@
-package com.cybertek.pages;
+package com.Bitrix.pages;
 
-import com.cybertek.utilities.BrowserUtils;
-import com.cybertek.utilities.Driver;
+import com.Bitrix.utilities.BrowserUtils;
+import com.Bitrix.utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;

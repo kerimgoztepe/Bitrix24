@@ -1,6 +1,6 @@
-package com.cybertek.pages;
+package com.Bitrix.pages;
 
-import com.cybertek.utilities.Driver;
+import com.Bitrix.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindAll;
 import org.openqa.selenium.support.FindBy;
